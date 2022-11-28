@@ -1,0 +1,11 @@
+{
+  "name": "test-eslint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.0"
+  }
+}
